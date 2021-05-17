@@ -1,0 +1,20 @@
+.PostBox {
+    border: solid 1px black;
+    max-width: 50%;
+    font-family: 'Dosis', sans-serif;
+}
+
+.SocialPosts {
+    background-color: #f3f1f7;
+    font-family: 'Dosis', sans-serif;
+}
+
+.SocialPosts h1 {
+    color: #03a9f4;
+    font-family: 'Homemade Apple', cursive;
+}
+
+.SocialPosts button {
+    background-color: #03a9f4;
+    font-family: 'Dosis', sans-serif;
+}
